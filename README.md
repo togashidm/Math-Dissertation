@@ -1,4 +1,4 @@
-# [Spline Collocation Methods in Solving Differential Equations](https://togashidm.github.io/Dissertation-in-Mathematics/)
+# [Spline Collocation Methods in Solving Differential Equations](https://togashidm.github.io/Math-Dissertation/)
 
 
 ### Abstract
