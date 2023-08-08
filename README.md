@@ -14,5 +14,5 @@ polynomials were performed. The feasibility of collocation at Gaussian points to
 solve the van der Pol equation was also verified and investigated. The results in
 relation to convergence, accuracy and computational effort from all the proposed
 collocation methods were compared and analysed.
-
+to be published here soon...
 <p align="right">21 May 2019</p>
